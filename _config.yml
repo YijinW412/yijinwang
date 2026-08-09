@@ -1,0 +1,22 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+title: Yijin Wang
+
+# Plain text only. This goes into <meta name="description"> and the Google
+# result snippet, where any HTML is escaped and shows up as literal &lt;br&gt;.
+description: "PhD candidate in Behavior, Cognition and Neuroscience at American University, studying how the human brain perceives materials."
+
+# Sidebar text under the photo. HTML is allowed here.
+tagline: "She/Her<br>Behavior, Cognition and Neuroscience<br>PhD Candidate<br>American University<br>Washington DC"
+
+logo: /img/portfolio.jpg
+show_downloads: false
+is_project_page: false
+is_user_page: false
+
+# User-page repo (YijinW412.github.io), so the site lives at the domain root
+# and baseurl stays empty.
+url: "https://YijinW412.github.io"
+baseurl: ""
