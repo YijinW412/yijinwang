@@ -1,4 +1,4 @@
-Source code of [Yijin Wang's website](https://YijinW412.github.io/).
+Source code of [Yijin Wang's website](https://yijinw412.github.io/YijinW412/)).
 
 Built with [Jekyll](https://jekyllrb.com/) on the
 [minimal](https://github.com/pages-themes/minimal) theme, hosted on GitHub Pages.
