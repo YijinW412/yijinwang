@@ -1,13 +1,19 @@
-Source code of [Yijin Wang's website](https://YijinW412.github.io/).
+Source code of [Yijin Wang's website](https://yijinw412.github.io/yijinwang/).
 
-Built with [Jekyll](https://jekyllrb.com/) on the
-[minimal](https://github.com/pages-themes/minimal) theme, hosted on GitHub Pages.
+Jekyll on GitHub Pages. No theme dependency — the layout and stylesheet in this
+repo are self-contained.
 
 ## Editing
 
-- `index.md` — all page content (bio, publications, contact)
-- `_config.yml` — site title, sidebar text, SEO description
-- `_layouts/default.html` — page shell
-- `assets/css/style.scss` — colors and layout overrides
+| File | What it controls |
+| --- | --- |
+| `index.md` | All page content: about, publications, education, contact |
+| `_config.yml` | Name, masthead lines, SEO description, `baseurl` |
+| `_layouts/default.html` | Page shell and masthead markup |
+| `assets/css/style.scss` | Colors, typography, spacing (light + dark) |
 
-Pushing to `main` rebuilds and redeploys the site automatically.
+Pushing to `main` rebuilds and redeploys automatically.
+
+**`baseurl` must match the repository name.** It is currently `/yijinwang`. If
+the repo is ever renamed, update `baseurl` in the same commit or every
+stylesheet and image will 404.

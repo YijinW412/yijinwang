@@ -5,8 +5,11 @@ title: Yijin Wang
 # where any HTML would be escaped and show up as literal &lt;br&gt;.
 description: "PhD candidate in Behavior, Cognition and Neuroscience at American University, studying how the human brain perceives materials."
 
-url: "https://YijinW412.github.io"
-baseurl: ""
+# Project-page repo named "yijinwang" under the YijinW412 account, so the site
+# is served from a subpath. These two must match the repo name exactly -- a
+# wrong baseurl makes every stylesheet and image 404.
+url: "https://yijinw412.github.io"
+baseurl: "/yijinwang"
 
 # --- Masthead ----------------------------------------------------------------
 # The three lines under the name. Edit these rather than the layout.
