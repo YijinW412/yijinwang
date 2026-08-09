@@ -152,12 +152,6 @@ h3 {
 
 p { margin: 0 0 1.15rem; }
 
-/* The opening paragraph after "About" carries a touch more presence. */
-#about + p {
-  font-size: 1.1875rem;
-  line-height: 1.65;
-}
-
 /* --- Publications --------------------------------------------------------- */
 
 .publications {
@@ -270,8 +264,6 @@ p { margin: 0 0 1.15rem; }
   .masthead__name { font-size: 1.75rem; }
 
   h2 { margin-top: 3rem; }
-
-  #about + p { font-size: 1.0625rem; }
 
   .publications > li { padding-left: 1.75rem; }
   .publications > li::before { width: 1.1rem; }
