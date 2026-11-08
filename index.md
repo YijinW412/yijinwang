@@ -8,7 +8,7 @@ I am Yijin Wang (<span lang="zh-Hans">王仪瑾</span>), a second-year PhD stude
 
 I previously worked in the lab of [Prof. Juan Chen](http://juanchenpsy.scnu.edu.cn/), investigating the representation of tools under unconscious conditions using deep neural networks.
 
-[Download my CV](CV_WYJ.pdf) (PDF)
+[Download my CV](CV_WYJ.pages) 
 
 ## Publications
 
